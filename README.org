@@ -1,0 +1,3 @@
+* aima-clojure
+
+Watch this repo for a minimal example using [[http://code.google.com/p/aima-java/][aima-java]] with Clojure.
